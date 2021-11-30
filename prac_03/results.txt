@@ -1,0 +1,6 @@
+35 is Bad
+89 is Passable
+57 is Passable
+49 is Bad
+28 is Bad
+70 is Passable
